@@ -88,6 +88,8 @@
 <img src="https://img.shields.io/badge/SOLID-Principles-orange?style=flat-square" />
 <img src="https://img.shields.io/badge/Dise%C3%B1o%20de%20Redes-Network%20Design-blue?style=flat-square" alt="Diseño de redes" />
 <img src="https://img.shields.io/badge/An%C3%A1lisis%20de%20Requerimientos-Requirements%20Analysis-green?style=flat-square" alt="Análisis de Requerimientos" />
+<img src="https://img.shields.io/badge/Scrum-Agile-red?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
+
 </div>
 
 ## Connect with me
